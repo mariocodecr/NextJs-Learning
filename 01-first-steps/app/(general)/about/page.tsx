@@ -1,7 +1,7 @@
 
 export const metadata = {
- title: 'SEO Title',
- description: 'SEO Description',
+ title: 'About Page',
+ description: 'This is the about page',
  keywords: ['About Page', 'Mario', 'Information', '...'],
 };
 
