@@ -1,4 +1,10 @@
-import { SimpleWidget } from '../../../components/SimpleWidget';
+import { SimpleWidget } from '@/components/SimpleWidget';
+
+
+export const metadata = {
+ title: 'Admin Dashboard',
+ description: 'SEO Title',
+};
 
 export default function MainPage() {
   return (
